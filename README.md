@@ -3,7 +3,7 @@
  Fantasma animado utilizando apenas HTML puro, juntamente com CSS! 
  
  
- ## Aqui está o ele :fire:
+ ## Aqui está ele :fire:
 
 <img src="https://user-images.githubusercontent.com/68034298/93372340-24ec4400-f82a-11ea-81eb-f3266fe9448b.gif" width=600>
 
